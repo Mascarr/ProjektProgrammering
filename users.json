@@ -1,0 +1,57 @@
+{
+    "a@gmail.com": {
+        "email": "a",
+        "username": "a",
+        "password": "a",
+        "temp_password": "3Ftq",
+        "temp_password_expiration": 1684348018.4748602
+    },
+    "aa@gmail.com": {
+        "email": "aa@gmail.com",
+        "username": "aa",
+        "password": "Adam2005",
+        "temp_password": "gDH9FPbl",
+        "temp_password_expiration": 1683654816.1697469
+    },
+    "b@gmail.com": {
+        "email": "b@gmail.com",
+        "username": "b",
+        "password": "Adam2005"
+    },
+    "a1212a@gmail.com": {
+        "email": "a1212a@gmail.com",
+        "username": "aaa",
+        "password": "Adam2005"
+    },
+    "arda@hotmail.com": {
+        "email": "arda@hotmail.com",
+        "username": "wassup",
+        "password": "Ardagangster10",
+        "temp_password": "M03R4fl3",
+        "temp_password_expiration": 1683662860.305862
+    },
+    "leotieu@hotmail.com": {
+        "email": "leotieu@hotmail.com",
+        "username": "MayoLayo",
+        "password": "LLLLLLLLL1"
+    },
+    "hejhej@gmail.com": {
+        "email": "hejhej@gmail.com",
+        "username": "hej",
+        "password": "hejhejhej1"
+    },
+    "lol1@.com": {
+        "email": "lol1@.com",
+        "username": "lol",
+        "password": "Adam2005",
+        "temp_password": "hEPW",
+        "temp_password_expiration": 1684348246.4368181
+    },
+    "Johanna@gm.com": {
+        "email": "Johanna@gm.com",
+        "username": "Johanna@gmail.com",
+        "password": "io23i9823",
+        "temp_password": "HXJb",
+        "temp_password_expiration": 1684412910.173376
+    }
+}
